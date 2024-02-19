@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 503.83 185.15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fcc008;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        font-size: 25.33px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: ManifaPro2-Bold, ManifaPro2;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        font-family: DroidArabicKufi, 'Droid Arabic Kufi';
+        font-size: 30.7px;
+      }
+
+      .cls-4 {
+        fill: #121a21;
+        font-size: 58.33px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <path class="cls-1" d="m0,2.32h58.86c34.45,0,62.42,27.97,62.42,62.42v7.03c0,33.22-26.97,60.19-60.19,60.19H0V2.32h0Z"/>
+      <path class="cls-2" d="m51.53,30.35c-.82-.85-1.67-1.74-1.98-2.88-.24-.85-.14-1.76-.05-2.64.59-4.68,1.02-9.39,1.53-14.08.26-2.36.51-4.72.77-7.07.05-.45.11-.91.18-1.36h-12.39c-4.28,30.77-8.56,61.54-12.85,92.31-8.91,3.44-17.82,6.89-26.73,10.33v12.33c28.63-11.04,57.26-22.07,85.89-33.11,7.96,7.71,15.93,15.42,23.89,23.13,2.38-3.27,4.44-6.79,6.13-10.51-21.46-22.15-42.93-44.3-64.39-66.45Zm-10.56,57.57l5.99-44.77,30.7,30.59-36.69,14.18Z"/>
+      <text class="cls-4" transform="translate(156.17 91.18)"><tspan x="0" y="0">ARABIAN DELTA</tspan></text>
+      <text class="cls-5" transform="translate(155.09 34.88)"><tspan x="0" y="0">ةعانصلل ةيبرعلا اتلد ةكرش</tspan></text>
+      <text class="cls-3" transform="translate(152.68 123.06)"><tspan x="0" y="0">OIL FIELD &amp; INDUSTRIAL HYDRAULICS </tspan></text>
+    </g>
+  </g>
+</svg>
